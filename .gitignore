@@ -33,3 +33,5 @@ fabric.properties
 private/
 
 debug*.py
+
+results/
